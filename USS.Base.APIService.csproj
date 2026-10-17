@@ -13,7 +13,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <WebPage>https://unicoresoftwaresolutions.com/</WebPage>
-
+    <IsPackable>true</IsPackable>
 
   </PropertyGroup>
   <ItemGroup>
